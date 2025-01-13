@@ -1,0 +1,2 @@
+# Geospatial Analysis of New York Shooting Incidents
+This project analyzes shooting incidents across different boroughs of New York City using geospatial data. We perform various operations on the data, including cleaning, transformation, correlation analysis, and clustering using DBSCAN. The goal is to gain insights into the distribution of shooting incidents across different boroughs and victim races, as well as to identify clusters of incidents based on their geographical locations.
